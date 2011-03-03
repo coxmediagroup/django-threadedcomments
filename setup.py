@@ -14,6 +14,7 @@ kwargs = {
         'threadedcomments.templatetags',
         'threadedcomments.management',
         'threadedcomments.management.commands',
+        'threadedcomments.migrations',
     ],
     'include_package_data': True,
     'zip_safe': False,
